@@ -63,10 +63,7 @@
 </a><br>
 
 
-**Annex**  
-<a href="Section13/Section Annex.ipynb"> 
-    <font size=1>Section Annex</font>
-</a><br>
+
 
 ## license
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="creative commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">creative commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>.
